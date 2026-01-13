@@ -21,10 +21,10 @@ Welcome to CM 515! Course materials will be made available here and on Canvas. U
 | 8 | Mon Mar 9 | [2D Genomics](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_08_2d_genomics) | Alpine/BASH/Deeptools/Jupyter | Sarah Swygert |
 | 8 | Wed Mar 11 | [2D Genomics](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_08_2d_genomics) | Alpine/BASH/Deeptools/Jupyter | Sarah Swygert |
 | BREAK | March 14-22 | N/A | N/A | N/A |
-| 9 | Mon Mar 23 | [Intro to Machine Learning](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_09_machine_learning) | Python | Marcelo Melo?, Pegah? |
+| 9 | Mon Mar 23 | [Intro to Machine Learning](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_09_machine_learning) | Python | Marcelo Melo, Pegah |
 | 9 | Wed Mar 25 | [Intro to Machine Learning](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_09_machine_learning) | Python | Pegah |
-| 10 | Mon Mar 30 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi?, Kelsey |
-| 10 | Wed Apr 1 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi?, Kelsey |
+| 10 | Mon Mar 30 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi, Kelsey |
+| 10 | Wed Apr 1 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi, Kelsey |
 | 11 | Mon Apr 6 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | Carol, Melea |
 | 11 | Wed Apr 8 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | Carol, Melea |
 | 12 | Mon Apr 13 | [TidyR and Pipes](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_12_tidyr) | R/R Studio | Shady |

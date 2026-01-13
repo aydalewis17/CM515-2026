@@ -35,6 +35,10 @@ https://cran.r-project.org/
 
 https://posit.co/download/rstudio-desktop/
 
+#### VSCode:
+
+https://code.visualstudio.com/download
+
 #### GitHub Desktop:
 
 https://github.com/apps/desktop

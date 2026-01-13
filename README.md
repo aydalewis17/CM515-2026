@@ -14,8 +14,8 @@ Welcome to CM 515! Course materials will be made available here and on Canvas. U
 | 4 | Wed Feb 11 | [Programming Basics](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_04_programming_basics) | Python | Kira, Alex |
 | 5 | Mon Feb 16 | [Functions, Loops, Conditionals](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_05_programming_2) | Python | Alex |
 | 5 | Wed Feb 18 | [Programming Exercises](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_05_programming_2) | Python | Alex, Kira |
-| 6 | Mon Feb 23 | [BioFile Formats and Tools](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_06_bioinformatics_files_databases) | BASH/Python, Genome Browser | Tai? |
-| 6 | Wed Feb 25 | [Databases/Data Retrieval](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_06_bioinformatics_files_databases) | BASH/Python | Tai? |
+| 6 | Mon Feb 23 | [BioFile Formats and Tools](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_06_bioinformatics_files_databases) | BASH/Python, Genome Browser | Tai |
+| 6 | Wed Feb 25 | [Databases/Data Retrieval](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_06_bioinformatics_files_databases) | BASH/Python | Tai |
 | 7 | Mon Mar 2 | [Protein Structure Visualization and Prediction](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_07_protein_structure) | PyMol, AlphaFold, BLAST, CLUSTAL | Teagan, Callie, Emma |
 | 7 | Wed Mar 4 | [Protein Structure Visualization and Prediction](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_07_protein_structure) | PyMol, AlphaFold, BLAST, CLUSTAL | Teagan, Callie, Emma |
 | 8 | Mon Mar 9 | [2D Genomics](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_08_2d_genomics) | Alpine/BASH/Deeptools/Jupyter | Sarah Swygert |
@@ -25,8 +25,8 @@ Welcome to CM 515! Course materials will be made available here and on Canvas. U
 | 9 | Wed Mar 25 | [Intro to Machine Learning](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_09_machine_learning) | Python | Pegah |
 | 10 | Mon Mar 30 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi?, Kelsey |
 | 10 | Wed Apr 1 | [Image Analysis](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_10_image_analysis) | CellProfiler/Python/WormLib | Rosi?, Kelsey |
-| 11 | Mon Apr 6 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | TBD |
-| 11 | Wed Apr 8 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | TBD |
+| 11 | Mon Apr 6 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | Carol, Melea |
+| 11 | Wed Apr 8 | [R/R Studio](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_11_r) | R/R Studio | Carol, Melea |
 | 12 | Mon Apr 13 | [TidyR and Pipes](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_12_tidyr) | R/R Studio | Shady |
 | 12 | Wed Apr 15 | [TidyR and Pipes](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_12_tidyr) | R/R Studio | Shady |
 | 13 | Mon Apr 20 | [ggplot & Data Visualization](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_13_ggplot) | R/R Studio | Alex |

@@ -2,6 +2,8 @@
 
 Welcome to CM 515! Course materials will be made available here and on Canvas. Unless otherwise noted by your instructor, all assignments will be submitted and graded on Canvas.
 
+**** Office hours are Fridays at 9am in A/Z H210 ****
+
 | Week | Date | Topic | Language/Platform | Instructor(s) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 0 | Fri Jan 16 | [Software Installation Party](https://github.com/Colorado-State-University-CMB/CM515-2026/tree/main/modules/wk_00_setup) | All | All |

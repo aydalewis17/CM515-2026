@@ -14,7 +14,7 @@ Complete the exercises in `020926_CM515_Assisgnment.ipynb` and submit as an assi
 
 ## Session 2, Wednesday Feb. 11
 Students will become familiar with: 
-* Basic Python data structures such as lists and dictonaries
+* Basic Python data structures such as lists and dictionaries
 * For and While loops
 * Conditionals
 * Reading data from files
